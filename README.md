@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+ 🌱 I’m currently learning Python, R and the data world 
+ 👯 Happy to connect :)
+ 
 <!--
 **aiminhnguyen/aiminhnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
